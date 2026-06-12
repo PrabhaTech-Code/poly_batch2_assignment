@@ -1,0 +1,65 @@
+1. Single
+
+A
+│
+B
+
+example 
+
+Vehicle
+|
+Car
+
+
+2. Multilevel
+
+A
+│
+B
+│
+C
+
+example
+
+GrantParent
+|
+Parent
+|
+Child
+
+
+
+3. Multiple
+
+A   B
+ \ /
+  C
+
+example
+
+Father  Mother
+  \       /
+    \    /
+     Son
+
+
+4. Hierarchical
+
+    A
+   / \
+  B   C
+
+  example
+
+#    Father
+#   /   \
+#  Son   Daughter
+
+
+5. Hybrid
+
+    A
+   / \
+  B   C
+   \ /
+    D
